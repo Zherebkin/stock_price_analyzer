@@ -1,5 +1,5 @@
 # stock_price_analyzer
-##Plan:
+## Plan:
 * Identify libraries that will be needed during development
 * Collect stock price data over time
 * Write a script
